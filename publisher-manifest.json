@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f21cfd83eccaa68db6b9fe9f",
+  "owner": "cwkfnyqmm",
+  "repo": "page-535bd5fcf5ed3d2afa33cda0",
+  "title": "哦哦云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "535bd5fcf5ed3d2afa33cda0",
+      "a": "哦哦云",
+      "b": "2027最新官网",
+      "entity": "哦哦云",
+      "brand": "哦哦云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6c9110eeb1b8feb4c5210eba04b629ca815296a9e543c03bae78f6299f923b64",
+      "content": {
+        "primary_entity": "哦哦云",
+        "keyword1": "哦哦云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，订阅导入更顺畅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，即刻连接。",
+          "AI_CLOSING_TITLE": "开始使用哦哦云",
+          "AI_DESCRIPTION": "，面向需要稳定跨境连接的终端用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量、5 台设备并带 IPLC 专线游戏加速；团队版每月 1000GB 流量、20 台设备与专属高带宽节点。年付方案分别为 ¥150/年、¥350/年、¥850/年，可按设备数量与流量需求选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度比较套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合轻度浏览，旗舰版 300GB 兼顾流媒体，团队版 1000GB 满足多设备并发。",
+          "AI_FEATURE_TITLE_1": "按流量用量挑档位",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按家庭或团队实际设备数选择。",
+          "AI_FEATURE_TITLE_2": "看在线设备数量",
+          "AI_FEATURE_TEXT_3": "月付与年付并行，年付价格固定为 ¥150、¥350、¥850，按订阅周期决定即可。",
+          "AI_FEATURE_TITLE_3": "选月付或年付周期",
+          "AI_GUIDE_INTRO": "三步完成套餐挑选与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "哦哦云提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版与团队版分别提供 IPLC 专线与 VIP 高带宽节点，用户可按实际设备数和流量需求选择。",
+          "AI_HERO_SUBTITLE": "三档套餐，适配多设备连接",
+          "AI_HIGHLIGHT_1": "100GB 到 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版 IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备与流量挑选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和月流量预算，在基础版、旗舰版、团队版之间确定一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量上限、在线设备数和线路类型，确认符合自身使用场景。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "根据手机、电脑或路由器等设备，参照对应客户端文档导入订阅地址并完成连接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "哦哦云套餐快速选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路差异。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要差别在哪里？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、最多 3 台设备；旗舰版提升到每月 300GB、5 台设备，并增加全节点原生流媒体解锁与 IPLC 专线，适合对线路质量和设备数量要求更高的用户。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以在多少台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版最多 20 台。建议按日常同时使用的设备数量选择，避免超出上限影响体验。",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更划算？",
+          "AI_FAQ_ANSWER_3": "如果打算长期使用，年付整体支出更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。只需短期试用可以先选月付，确认线路稳定后再考虑年付。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅信息到客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装所选客户端，再参考该客户端的文档，把订阅信息按说明填入或导入，保存后刷新节点列表即可。不同客户端操作位置略有差异，以对应文档为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备在线，并提供 VIP 高带宽节点和企业定制路由，适合多人共用或设备数量较多的团队日常使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ednovasyun.com",
+    "host": "ednovasyun.com"
+  },
+  "file_hashes": {
+    "index.html": "04cd24cdc68afbb0bece51cfb20d5f6e9f37548bd365d1dfde3a925d829b402f",
+    "sitemap.xml": "667087fa87e8c9ee3628530dc419cf30bf5a7d0b48316ad2e7f47212342974a0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "14071887df4eb69531e17036c5aa53cc5df65e44b4c9ae1f2a3dcbcb4ffd8c3d",
+    "robots.txt": "611e9f53cd36dc01fdf0fe1779bdaedfbd3027dcb91441316bd817aa8875c3c3",
+    "dcdfe9ed87307f18fcb38da77d650fa0.txt": "f8d53de8e8c7c23886aa06396b33b853ed303a5d5a56244dd2d301807d0db685"
+  },
+  "revision": "8e876cafa6a241563baa157921013f5016548d63f724d3f12e606e8f801b319f"
+}
